@@ -1,0 +1,6 @@
+@WebApi_PauloRibeiro_v8_HostAddress = http://localhost:5271
+
+GET {{WebApi_PauloRibeiro_v8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
